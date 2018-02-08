@@ -17,4 +17,12 @@ This packet is the most widely used packet, and you can use it to send titles to
 
 ![http://wiki.vg/Protocol][TitlePacket]
 
+#### BossBarPacket
+
+This packet is another really common packet that is used once again, in many plugins. A good example of how a plugin uses this is, once again, TitleManager. Also BossBarPlus is another plugin that has been built around this packet.
+
+![http://wiki.vg/Protocol#Boss_Bar][BossBar]
+
 [TitlePacket]: https://i.imgur.com/pInQ9VQ.png
+[BossBar]: https://i.imgur.com/D35p6i8.png
+
