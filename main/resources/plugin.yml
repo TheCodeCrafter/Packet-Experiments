@@ -1,0 +1,11 @@
+name: PacketExperiments
+version: 1.0
+author: TheCodeCrafter
+main: net.fathomtech.plugins.PacketExperiements.PacketExperimentsPlugin;
+description: Use the vast amount of resources in this plugin to help yourself learn how to use packets effectively, and expand your arsenal of abilities within Spigot and Bukkit.
+commands:
+  packetexperiments:
+    description: Displays basic data for plugin
+  packet:
+    usage: /packet <type> [args]
+    description: Use this command to test out packets with the server. You can use a basic packet, or supply your own args.
