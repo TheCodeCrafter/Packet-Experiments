@@ -15,6 +15,6 @@ There are over 70 packets to choose from (just client-bound ones), but here are 
 
 This packet is the most widely used packet, and you can use it to send titles to be displayed on player's screens. This is widely used in some well known plugins, for instance, TitleManager.
 
-[Imgur](https://i.imgur.com/pInQ9VQ.png)
+![http://wiki.vg/Protocol][TitlePacket]
 
-[TitlePacket]: https://imgur.com/pInQ9VQ
+[TitlePacket]: https://i.imgur.com/pInQ9VQ.png
