@@ -24,5 +24,5 @@ This packet is another really common packet that is used once again, in many plu
 ![http://wiki.vg/Protocol#Boss_Bar][BossBar]
 
 [TitlePacket]: https://i.imgur.com/pInQ9VQ.png
-[BossBar]: https://i.imgur.com/D35p6i8.png
+[BossBar]: https://i.imgur.com/kdEro01.png
 
