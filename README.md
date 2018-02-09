@@ -27,7 +27,9 @@ This packet is another really common packet that is used once again, in many plu
 
 This packet is not widely used among basic plugins, but it is very useful to know, because you can make your plugin super user-friendly. You can use this packet to tab-complete options for your commands! A good example of a plugin with tab-complete is PermissionsEX. Also, EssentialsX has a good use of it that's easy to understand.
 
+![http://wiki.vg/Protocol#Tab-Complete_.28clientbound.29][Tab-CompletePacket]
+
 [TitlePacket]: https://i.imgur.com/pInQ9VQ.png
 [BossBarPacket]: https://i.imgur.com/kdEro01.png
-[Tab-CompletePacket]
+[Tab-CompletePacket]: https://i.imgur.com/xaVgTdq.png
 
