@@ -29,7 +29,13 @@ This packet is not widely used among basic plugins, but it is very useful to kno
 
 ![http://wiki.vg/Protocol#Tab-Complete_.28clientbound.29][Tab-CompletePacket]
 
+#### ChatMessagePacket
+
+This packet is very useful for chat plugins, as well as almost any other plugin. You can use this to send special JSON-Altered messages to players. For instance, you can send a Join Now! announcement, and make it so that when the player clicks it, they teleport to a minigame's lobby. A great example of an open-source plugin that does this is Kangarkoo's ChatControl.
+
+![http://wiki.vg/Protocol#Chat_Message_.28clientbound.29][ChatMessagePacket]
+
 [TitlePacket]: https://i.imgur.com/pInQ9VQ.png
 [BossBarPacket]: https://i.imgur.com/kdEro01.png
 [Tab-CompletePacket]: https://i.imgur.com/eKvYxWt.png
-
+[ChatMessagePacket]: https://i.imgur.com/4VfI2SN.png
