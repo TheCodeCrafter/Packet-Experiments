@@ -9,7 +9,7 @@ You can use the WIKI on this to learn more about packets without deciphering Jav
 
 ### Most Useful Packets
 
-There are over 70 packets to choose from (just client-bound ones), but here are some of the most useful and helpful ones that you'll want to keep in mind for your next plugin.
+There are over 70 packets to choose from, but here are some of the most useful and helpful ones that you'll want to keep in mind for your next plugin.
 
 #### TitlePacket
 
