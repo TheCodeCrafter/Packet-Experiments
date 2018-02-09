@@ -31,5 +31,5 @@ This packet is not widely used among basic plugins, but it is very useful to kno
 
 [TitlePacket]: https://i.imgur.com/pInQ9VQ.png
 [BossBarPacket]: https://i.imgur.com/kdEro01.png
-[Tab-CompletePacket]: https://i.imgur.com/xaVgTdq.png
+[Tab-CompletePacket]: https://i.imgur.com/eKvYxWt.png
 
